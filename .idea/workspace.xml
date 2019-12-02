@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03c70442-35a1-4e94-ad87-5b7a43ee9130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DebugDev/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/arithmetic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dijkstra.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Floyd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Node.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-master/views/double/images/banner_top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zonst/qipai/gin-middlewares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zonst/qipai/gin-middlewares/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../beego_blog" beforeDir="false" afterPath="$PROJECT_DIR$/../beego_blog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog" beforeDir="false" afterPath="$PROJECT_DIR$/../blog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-master/blog-master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-master/log/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-master/log/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-master/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-master/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/garyburd/redigo" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/garyburd/redigo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/liangdas/mqant" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/liangdas/mqant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/lonng/nano" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/lonng/nano" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/name5566/leafserver" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/name5566/leafserver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/panshiqu/framework" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/panshiqu/framework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/ulricqin/beego-blog" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/ulricqin/beego-blog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tolinzou" beforeDir="false" afterPath="$PROJECT_DIR$/../tolinzou" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/attend" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/attend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/chongrendadunsrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/chongrendadunsrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/doudizhusrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/doudizhusrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/dxfuzhoumjsrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/dxfuzhoumjsrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/logic_interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/logic_interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/rule/constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/rule/constants.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/rule/hu.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/rule/hu.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/rule/hu_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/rule/hu_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/state_deal.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/state_deal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/state_end.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/state_end.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/state_play.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/state_play.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/state_play_v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/fuzhoumjsrv/state_play_v2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/gdysrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/gdysrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/jinganmjsrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/jinganmjsrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/jingdezhenmjsrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/jingdezhenmjsrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/libgame" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/libgame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/libmahjong" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/libmahjong" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/longnanmjsrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/longnanmjsrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/messages" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/messages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/nanfengdadunsrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/nanfengdadunsrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/readFileInfo" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/readFileInfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/taiheguozhasrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/taiheguozhasrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/taihekbaosrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/taihekbaosrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/constants.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/dm_game.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/dm_game.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/dm_play.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/dm_play.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/dm_rule.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/dm_rule.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/game_rule.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/dm/game_rule.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/logic.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/logic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/logic_broken.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/logic_broken.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/logic_interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/logic_interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/notify_util.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/notify_util.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/protocol/gandengyan.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/protocol/tiandakeng.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/protocol/tiandakeng.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/state_deal.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/state_deal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/state_end.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/state_end.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/state_play.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/state_play.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/state_ready.go" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tiandakengsrv/state_ready.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tongguwushik" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tongguwushik" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/tongguwushiksrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/tongguwushiksrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/wananpincidaosrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/wananpincidaosrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/wangzhasrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/wangzhasrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/wolongsrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/wolongsrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/wushiksrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/wushiksrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/xinganguozhasrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/xinganguozhasrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/yuganmjsrv" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/yuganmjsrv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zonst/qipai/yunshanwushik" beforeDir="false" afterPath="$PROJECT_DIR$/../zonst/qipai/yunshanwushik" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dijkstra.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Node.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Floyd.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/../DebugDev/main.go" />
+        <option value="$PROJECT_DIR$/Floyd.go" />
+        <option value="$PROJECT_DIR$/BinaryTree.go" />
+        <option value="$PROJECT_DIR$/Node.go" />
+        <option value="$PROJECT_DIR$/Dijkstra.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="26" />
+    <option name="y" value="23" />
+    <option name="width" value="1406" />
+    <option name="height" value="819" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build Dijkstra.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="arithmetic" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Dijkstra.go" />
+      <package value="arithmetic" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Dijkstra.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="26" y="23" width="1406" height="819" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1356305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90249264" weight="0.0041265474" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926686" weight="0.39889959" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49926686" weight="0.3287483" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49926686" weight="0.3287483" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49706745" visible="true" weight="0.32737276" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50293255" side_tool="true" visible="true" weight="0.32737276" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.go" />
+    <entry file="file://$PROJECT_DIR$/../DebugDev/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/fmt/scan.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Node.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Floyd.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dijkstra.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
