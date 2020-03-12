@@ -67,7 +67,7 @@ func DFS(g *Graph,j int){//g是图，i是遍历的下标
 //广度优先遍历
 func BFS(g *Graph){//g是图，i是遍历的下标
 	//入队
-	for i:=0;i<g.numVexs;i++{//遍历每一个节点
+	for i:=0;i<g.numVexs;i++{//遍历每一个节点@@这一步是是为了兼容非连通图
 		if !boolBuff[i]{
 			boolBuff[i]=true
 			fmt.Printf("->%v",g.vexs[i])

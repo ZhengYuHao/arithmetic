@@ -20,7 +20,7 @@ func dijkstra()  {
 		minL:=Inf//当前最短路径
 		temp:=int32(0)//temp节点
 
-		for j:=int32(0);j<n;j++{
+		for j:=int32(0);j<n;j++{//找到距离原点最近的点
 			if mapVist[j]==0&&mapDist[j]<minL{
 				minL=mapDist[j]
 				temp=j
